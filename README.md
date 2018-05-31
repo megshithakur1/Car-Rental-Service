@@ -1,4 +1,4 @@
-# ITMD566_Group6_SOA
+
 ## Design and implementation of soap and restful web services
 
 Web-services project using Java(TrucksApp) for publishing services and .Net(WebServiceConsumer) for consuming services.<br/>
