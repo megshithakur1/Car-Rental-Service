@@ -1,5 +1,5 @@
 
-## Design and implementation of soap and restful web services
+## Design and Implementation of SOAP and RESTful Web Services.
 
 Web-services project using Java(TrucksApp) for publishing services and .Net(WebServiceConsumer) for consuming services.<br/>
 
