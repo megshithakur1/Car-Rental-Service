@@ -9,5 +9,5 @@ Technologies and architecture: JSON RPC, JSON WPC, Web template, Web services de
 
 Submitted by:<br/>
 
-MEGSHI THAKUR - A20392177<br/>
-GOWTHAM MANIVELAN - A20353097
+MEGSHI THAKUR<br/>
+GOWTHAM MANIVELAN
